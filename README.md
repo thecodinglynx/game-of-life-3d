@@ -7,4 +7,9 @@ This repository contains all the code used in the tutorial http://www.lynxcoding
 
 Feel free to use/share/modify this code.
 
+# Run Instructions
+
+- Download Unity 2018.4.29+
+- Execute In editor
+
 Lynx
